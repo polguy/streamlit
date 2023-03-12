@@ -1,2 +1,7 @@
+import streamlit as st
 
-HELLO WORLD
+st.write("""
+# My first app
+HELLO WORLD*
+""")
+
